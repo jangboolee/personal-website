@@ -13,4 +13,4 @@ git commit -m "Deploy: $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin main
 cd ..
 
-echo "✅ Done. Live at https://jangboolee.com"
+echo "✅ Done. Live at https://www.jangboolee.com"
