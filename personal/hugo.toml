@@ -6,3 +6,6 @@ publishDir = "../public"
 [taxonomies]
     category = 'categories'
     tag = 'tags'
+[params.homeInfoParams]
+    Title = "Hi, I'm Jangboo 👋"
+    Content = "I write about trail running, tech, and other topics. Scroll down for posts!"
