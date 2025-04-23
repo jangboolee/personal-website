@@ -1,4 +1,4 @@
-baseURL = 'https://jangboolee.github.io/'
+baseURL = 'https://www.jangboolee.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
