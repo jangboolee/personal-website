@@ -3,7 +3,7 @@ title = "Welcome"
 description = "Tech thoughts, running adventures, product reviews, and more."
 +++
 
-# Hello 👋
+# Hi, I'm Jangboo 👋
 
 Welcome to my website! Here you'll find:
 
