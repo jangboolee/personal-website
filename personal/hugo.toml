@@ -2,6 +2,7 @@ baseURL = 'https://jangboolee.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
+publishDir = "../public"
 [taxonomies]
     category = 'categories'
     tag = 'tags'
