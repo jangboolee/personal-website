@@ -1,6 +1,6 @@
 baseURL = 'https://www.jangboolee.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Jangboo Lee'
 theme = 'PaperMod'
 publishDir = "../public"
 [taxonomies]
