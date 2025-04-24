@@ -74,6 +74,8 @@ The gear used for the adventure is below:
 
 I used every single piece of gear that I took with me and never found myself wanting for more, so the gear preparation for this adventure was perfect.
 
+## Pre-run, segment #21
+
 ## The run
 
 I got to Bulgwang station at a bit over 6, and after putting my belongings in the station's locker, I walked about 10 minutes from exit 2. At around 07:00, I started the run at the beginning of segment #8.
@@ -81,3 +83,19 @@ I got to Bulgwang station at a bit over 6, and after putting my belongings in th
 After about 15 minutes, I reached the photo zone of segment #8, with some beautiful views of the mountain.
 
 ![Top of segment #8](seg_8.jpg)
+
+After a short descent, I passed Eunpyeong Hanok Village to enter segment 9 and 10, which were mostly road.
+
+![Entering segment #10](seg_10.jpg)
+
+Segments 11 and 12 went through some remote trail sections with some more beautiful views of the mountaintops.
+
+![Views at segment #12](seg_12_view.jpg)
+
+Segment 13 went through a short road segment, and I then entered segment 14, which offered another panoramic view of the mountain.
+
+![Segment 14 with marker](seg_14_marker.jpg)
+![Segment 14 view](seg_14_view.jpg)
+
+## Mt. Bukhan, revisited
+
