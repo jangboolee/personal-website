@@ -14,6 +14,7 @@ tags = ['Korea', 'solo']
 | elevation_gain_m  | 3255                                                           |
 | peak_elevation_m  | 353                                                            |
 | elapsed_time      | 12:55:45                                                       |
+| is_race           | FALSE                                                          |
 | course_type       | circular                                                       |
 | start_location    | Bulgwang station, line. 3/6                                    |
 | finish_location   | Bulgwang station, line. 3/6                                    |
@@ -96,6 +97,30 @@ Segment 13 went through a short road segment, and I then entered segment 14, whi
 
 ![Segment 14 with marker](seg_14_marker.jpg)
 ![Segment 14 view](seg_14_view.jpg)
+
+After completing segment 15, I reached the 30K mark after about 5 hours and 20 minutes, which was roughly the half-way point of the course. 
+
+![30K mark](30k.jpg)
+
+At around the mid-way point of segment 17, I came across a majestic temple with the mountains as its backdrop, which was a sight to behold.
+
+![Temple](temple.jpg)
+
+Segment 19's photo spot was a lookout tower, from which I was able to get some breathtakingly beautiful views of the mountain.
+
+![Lookout tower view](lookout.jpg)
+
+I soon passed the 42.195KM mark, the official marathon distance, after about 8 hours of scrambling through the monutains.
+
+![Marathon distance](marathon.jpg)
+
+I then reached segment 1, where I stopped by a convenience store to restock on hydration and food. Then midway through segment 3, I reached the 50K mark after about 9 hours and 35 minutes.
+
+![50K mark](50k.jpg)
+
+I started to really feel it by this point, where every 1K felt like 10K, but I could practically see the finish line, so I kept chuggling along.
+
+![50k map](50K_map.png)
 
 ## Mt. Bukhan, revisited
 
