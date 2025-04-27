@@ -2,6 +2,8 @@
 date = '2025-04-26T06:15:00+09:00'
 draft = false
 title = 'Korea 50K'
+category = ['Trail running']
+tags = ['Korea', 'race']
 +++
 
 ## Summary
