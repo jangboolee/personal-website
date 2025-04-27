@@ -3,9 +3,11 @@ languageCode = 'en-us'
 title = 'Jangboo Lee'
 theme = 'PaperMod'
 publishDir = "../public"
+
 [taxonomies]
     category = 'categories'
     tag = 'tags'
+
 [menus]
     [[menus.main]]
     name = "Home"
@@ -19,6 +21,21 @@ publishDir = "../public"
     name = "Tags"
     url = "/tags/"
     weight = 3
+
 [outputs]
     [outputs.home]
     home = ["HTML", "RSS", "JSON"]
+
+[params]
+    [params.homeInfoParams]
+    Title = "Hi, I'm Jangboo 👋"
+    Content = """
+Welcome to my website! Here you'll find:
+
+* 🏃‍♂️ My trail running adventures
+* 💭 My reviews on products I've tested
+* 🔒 My thoughts and tips on data privacy
+* 🖥️ Projects in data science and programming
+
+Explore from the menu or recent posts below.
+    """
