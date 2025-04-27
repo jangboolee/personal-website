@@ -16,8 +16,8 @@ tags = ['Korea', 'solo']
 | elapsed_time      | 12:55:45                                                       |
 | is_race           | FALSE                                                          |
 | course_type       | circular                                                       |
-| start_location    | Bulgwang station, line. 3/6                                    |
-| finish_location   | Bulgwang station, line. 3/6                                    |
+| start_location    | Bulgwang station, line 3/6                                     |
+| finish_location   | Bulgwang station, line 3/6                                     |
 | start_has_lockers | TRUE                                                           |
 | garmin_link       | [link](https://connect.garmin.com/modern/activity/18398774589) |
 
