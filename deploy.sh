@@ -8,6 +8,9 @@ cd ..
 
 echo "▶ Deploying to GitHub Pages..."
 cd public
+
+git checkout main
+
 git add .
 git commit -m "Deploy: $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin main
