@@ -15,7 +15,7 @@ publishDir = "../public"
     weight = 1
     [[menus.main]]
     name = "Search"
-    url = /search/
+    url = "/search/"
     weight = 2
     [[menus.main]]
     name = "Categories"
