@@ -28,7 +28,7 @@ publishDir = "../public"
 
 [params]
     [params.homeInfoParams]
-    Title = "Hi, I'm Jangboo 👋"
+    Title = "Hi, I'm Jangboo 👋 TOML"
     Content = """
 Welcome to my website! Here you'll find:
 
