@@ -11,7 +11,7 @@ tags = ['Korea', 'solo']
 | **category**      | **value**                                                      |
 | ----------------- | -------------------------------------------------------------- |
 | distance_km       | 64.62                                                          |
-| elevation_gain_m  | 3,255                                                           |
+| elevation_gain_m  | 3,255                                                          |
 | peak_elevation_m  | 353                                                            |
 | elapsed_time      | 12:55:45                                                       |
 | is_race           | FALSE                                                          |
@@ -158,7 +158,7 @@ Which is exactly what I did on 2025-03-08. After reserving segment 21 again, I o
 
 ![Back at segment 7](seg_7_again.jpg)
 
-At the visitor center at segment 10, I showed the staff member all my selfies and my Garmin activity log, and she verified that I had indeed done the entire course. I was allowed to fill out my stamp passport, and after taking a ceremonious picture, I got a cute little stamp as a souvenior.
+At the visitor center at segment 10, I showed the staff member all my selfies and my Garmin activity log, and she verified that I had indeed done the entire course. I was allowed to fill out my stamp passport, and after taking a ceremonious picture, I got a cute little badge as a souvenior (The badge is worn proudly on my Gossamer Gear Vagabond Jet backpack).
 
 ![Passport and badge](passport_badge.jpg)
 
