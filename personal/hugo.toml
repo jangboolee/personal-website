@@ -5,34 +5,42 @@ theme = 'PaperMod'
 publishDir = "../public"
 
 [taxonomies]
-    category = 'categories'
-    tag = 'tags'
+  category = 'categories'
+  tag = 'tags'
 
 [menus]
-    [[menus.main]]
+  [[menus.main]]
     name = "Home"
     url = "/"
     weight = 1
-    [[menus.main]]
+
+  [[menus.main]]
     name = "Search"
     url = "/search/"
     weight = 2
-    [[menus.main]]
+
+  [[menus.main]]
     name = "Categories"
     url = "/categories/"
     weight = 3
-    [[menus.main]]
+
+  [[menus.main]]
     name = "Tags"
     url = "/tags/"
     weight = 4
 
 [outputs]
-    [outputs.home]
+  [outputs.home]
     home = ["HTML", "RSS", "JSON"]
 
 [params]
-    [params.homeInfoParams]
-    Title = "Hi, I'm Jangboo 👋 TOML"
+  mainSections = ["posts"] # Make sure your posts show up on homepage too
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Jangboo 👋"
     Content = """
 Welcome to my website! Here you'll find:
 
@@ -40,7 +48,9 @@ Welcome to my website! Here you'll find:
 * 💭 My reviews on products I've tested
 * 🔒 My thoughts and tips on data privacy
 * 🖥️ Projects in data science and programming
-* Are you loading?
 
 Explore from the menu or recent posts below.
     """
+
+[params.profileMode]
+  enabled = false  # if you want "profile mode" (big image + intro), turn this on
