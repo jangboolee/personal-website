@@ -167,25 +167,25 @@ This Garmin malfunction took a heavy toll on my motivation levels, and the fact 
 
 Although demotivated, I still kept going with the hope that I would be able to recover my data somehow. I was also starting to feel severe fatigue in my heart, so I started to slow down and tried to keep my HR within the range of 160-170bpm. I could feel myself slowly sinking into "the hole", where the option of just giving up starts to become more and more tantalizing and your motivation, confidence and willpower are all depleted, making it harder and harder to keep going.
 
-The climbs during the 17th and 18th kilometers were especially tough, where it was difficult for me to climb for more than 5 minutes. I simply didn't have it within me to keep going, so I had to stop frequently and recover both mentally and physically. Those two kilometers alone took me more 48 minutes.
+The climbs during the 17th and 18th kilometers were especially tough, where it was difficult for me to climb for more than 5 minutes. I simply didn't have it within me to keep going, so I had to stop frequently and recover both mentally and physically. Those two kilometers alone took me more than 48 minutes.
 
-I tried to dig myself out of the hole by focusing on the beautiful nature around me, which thankfully kept me going until I got to the second aid station at around the 20K mark.
+I tried to dig myself out of the hole by focusing on the beautiful nature around me, which barely kept me going until I got to the second aid station at around the 20K mark.
 
 ![View 5](view5.jpg)
 
 ![View 6](view6.jpg)
 
-Taking a short breather at the second aid station helped me recover both mentally and physically, and I felt my motivation levels rising again to the point where I was confident again that I would be able to finish the run. Even my comfortable target time of 9:45 was out of the question at this point, but I was enjoying myself again, and that was enough for me.
+Taking a short breather at the second aid station helped me recover both mentally and physically, and I felt my motivation levels rising to the point where I was confident that I would be able to finish the run. Even my comfortable target time of 9:45 was out of the question at this point, but I was enjoying myself again, and that was enough for me.
 
 ### Back at it again
 
-I was still physically exhausted, but with my mental strength recovered, I started tackling the race again with newly-found determination. Thankfully, the next segments were not very technical, as it followed a trail paved for cars, which was exactly what I had needed.
+I was still physically exhausted, but with my mental strength recovered, I started tackling the race again with newly-found determination. Thankfully, the next segments were not very technical, as it followed a trail paved for cars, which was exactly the mental break I needed.
 
 ![Paved 1](paved1.jpg)
 
 ![Paved 2](paved2.jpg)
 
-I soon reached aid station 3 at around the 32K mark, and then the trail started to get more technical again with the trail at this segment following along a river. Thankfully, this change of scenery was refreshing, and needing to cross the river several times by hopping on rocks was a fun distraction.
+I soon reached aid station 3 at around the 32K mark, and then the trail started to get more technical again with the trail at this segment following along a river. But I found this change of scenery refreshing, and crossing the river several times by hopping on rocks was a welcome distraction from the pain.
 
 ![River](river.jpg)
 
@@ -203,24 +203,24 @@ There were not many hills during the final stretch of the race, but my quads and
 
 Soon, I had made it down the mountain, and I was now running the last road segment towards the finish line, with the sounds of the finish line echoing in the distance. 
 
-With the finish line in sight, I ran as fast as my fatigued heart, feet and legs would take me until I crossed the finish line with an official finishing time of 12:17:16.
+Once I saw the finish line, I ran as fast as my fatigued heart, feet and legs would take me, until I crossed the finish line with an official finishing time of 12:17:16.
 
 ![Official record](record.jpg)
 
 ## Adventures in data recovery
 
-After I finished the race, I checked to see if my watch had actually saved the entire 12 hours of the run. Thankfully, I was surprised to see that my watch had actually saved everything, but as a multi-activity with two legs of trail running activities combined into one. However, when clicking on the multi-activity, I was unable to view the details of the activity. I was also unable to sync the history to Garmin Connect. 
+After I finished the race, I checked to see if my watch had actually saved the entire 12 hours of the run. I was pleasantly surprised to see that my watch had actually saved everything, but as a multi-activity with two legs of trail running activities combined into one. However, I was unable to view the details of the activity or to sync the history to Garmin Connect. 
 
-Although the data was supposedly corrupted, I was ecstatic to see that the data was captured and saved, and that I would hopefully be able to recover my full data. Thus, my adventure into the rabbit hole of data recovery had begun.
+Although the data was supposedly corrupted, I was ecstatic to see that the data was at least captured and saved, which meant I would hopefully be able to recover my data. Thus, my adventure into the rabbit hole of data recovery had begun.
 
 After I got home, I did some research, and I found I had several options I could attempt for data recovery:
 
 1. Use first-party Garmin tools to recover the data
-    1. Manually sync with Garmin Express
+    1. Manually sync with Garmin Express with a cable connection
     2. Extract the corrupt FIT file through a cable connection and manually upload the FIT file to Garmin Connect
     3. Create a GPX extract of the FIT file using Garmin Basecamp, and manually upload the GPX file to Garmin Connect
 2. Use third-party tools to recover the data
-    1. Use the [LiveTrack export tool](https://www.dsantini.it/livetrack/) to extract a GPX file from the run's LiveTrack link, which was thankfully intact throughout the entire run. Then manually upload the GPX file to Garmin Connect.
+    1. Use the [LiveTrack export tool](https://www.dsantini.it/livetrack/) to extract a GPX file from the run's LiveTrack link, which was thankfully intact throughout the entire run, then manually upload the GPX file to Garmin Connect
     2. Use [GOTOES Utilities](https://gotoes.org/strava/) to repair the FIT file and export to GPX, then manually upload the GPX file to Garmin Connect
     3. Use [Fit File Repair Tool](https://www.fitfilerepairtool.info/) to repair the FIT file and manually upload the repaired FIT file to Garmin Connect
 
@@ -234,7 +234,7 @@ I tried all of the above options, but each option had some sort of limitation, e
 | 2-1 | GPX only contains distance and elevation with no laps |
 | 2-2 | GPX only contains distance, elevation, and HR with no laps |
 
-Thankfully, the Fit File Repair Tool was able to recover every single datapoint from the corrupt FIT file, and I was able to manually upload the recovered data into Garmin Connect:
+Thankfully, the Fit File Repair Tool was able to recover every single datapoint from the corrupt FIT file, and I was able to manually upload the repaired FIT file into Garmin Connect:
 
 ![Recovered data](recovered.png)
 
