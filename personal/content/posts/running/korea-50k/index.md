@@ -229,7 +229,7 @@ I tried all of the above options, but each option had some sort of limitation, e
 | option | limitation |
 | --- | --- |
 | 1-1 | Does not work |
-| 1-2 | Result in error message during upload |
+| 1-2 | Error message during upload |
 | 1-3 | GPX is too large for upload |
 | 2-1 | GPX only contains distance and elevation with no laps |
 | 2-2 | GPX only contains distance, elevation, and HR with no laps |
@@ -244,4 +244,18 @@ Thank you, Mathias, for your amazing work with the Fit File Repair Tool!
 
 ## Lessons learned
 
+There were several lessons I learned throughout my Korea 50K ultra:
+
+1. Every mountain is different, so fully take elevation profile and trail technical levels into account when pace planning. 
+2. When your watch says that you're at 190+bpm, you probably are at 190+bpm. Listen to your watch!
+3. Don't overpace, especially in an ultramarathon.
+4. It is not possible to start a PacePro plan, new or existing, mid-activity on a Garmin device.
+5. The Fit File Repair Tool is amazing for Garmin data recovery.
+
 ## Closing thoughts
+
+The Korea 50K ultramarathon was the most painful run I have done, even more so than [the 100K ultramarathon](https://connect.garmin.com/modern/activity/385885441) I did back in 2013. Physically, the 100K was definitely a more demanding endeavour, but this 50K was more painful than the 100K. 
+
+It must have been because I had mispaced myself in the initial couple hours of the race and I had pushed myself way too hard, which made the later parts of the race almost unbearably painful. I know better now than to overpace myself in the beginning of an ultra, so hopefully I won't repeat that mistake again.
+
+I'm glad I was able to push through the pain and finish the run. Overall, the race was very well organized, and I think it was a great send-off for myself and the beautiful Korean trails before I return to the flat Netherlands.
