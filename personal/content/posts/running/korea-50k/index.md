@@ -70,6 +70,19 @@ The gear I used for the race is below:
 
 There were some safety equipment required by the race that I didn't use, and I didn't finish all my food thanks to there being plenty of food available at the aid stations, but overall I didn't overpack and felt good about my gear.
 
+## Planning the run
+
+Prior to race day, I had planned out two target times for myself:
+
+1. Ambitious - 9:00:00
+2. Comfortable - 9:45:00
+
+![PacePro](pacepro.png)
+
+I had based these times on the fact that I had done the first 50K of [Mt. Bukhan Trail](https://www.jangboolee.com/posts/running/mt-bukhan/) in about 9:35. If I felt good on the morning, I would try for the ambitious target time of 9 hours, but shoot for the comfortable time of 9:45 if I didn't.
+
+Since that was a run that I had done with no real time pressure, I assumed that I would be able to push myself a bit further on race day. It turned out that I had grossly underestimated the terrain of the trail (more to follow)...
+
 ## Pre-race check-in
 
 I got to Bosan station the evening of the race, as racers could start checking in a day before the race. When I got there at around 18:00, the area was full of trail runners, and I felt right at home with my people.
@@ -86,7 +99,13 @@ After checking in, I received my bib (#826), and I went to a nearby motel to res
 
 ### Getting ready
 
-The race was supposed to start at 06:00 on Saturday, so I checked-out at around 05:20 to check in my bag. After checking in my bag, I headed to the starting line at 05:45, which was already packed with runners by then.
+I unfortunately couldn't sleep very well the night before, so I woke up feeling tired, especially since I hadn't been able to get much sleep for the last couple of weeks, getting an average of around 6 hours of sleep per day.
+
+![Sleep](sleep.png)
+
+Despite my poor sleep, I was excited to run the ultra, and I decided to shoot for the ambitious target of 09:00. 
+
+I checked-out from the motel at around 05:20 to check in my bag before the 06:00 starting time. After checking in my bag, I headed to the starting line at 05:45, which was already packed with runners by then.
 
 ![Starting line](starting_line.jpg)
 
@@ -94,10 +113,46 @@ While waiting for the starting gun, I couldn't help but notice that I was the on
 
 ![A single minimal shoe in a sea of maximalist shoes](shoes.jpg)
 
-Despite the initial starting time of 06:00, the race ended up getting delayed by around 15 minutes. But at 06:15, the countdown started, and everyone was off to the races.
+The race ended up getting delayed by around 15 minutes, but at 06:15, the countdown started, and everyone was off to the races.
 
-### And so it begins
+### First leg
 
-testing6
+After about 1.5K of pavement, we soon reached the start of the trail, where the runners were bottlenecked from the starting point of the singletrack trailhead.
+
+![Traffic jam](bottleneck.jpg)
+
+But soon after, the bottleneck started to clear out, and the runners were finally able to start actually trail running in the beautiful mountains.
+
+![Real start of trail run](run_start.jpg)
+
+It was my first time running in the mountains in Dongducheon, and it had some gorgeous views.
+
+![First view](view1.jpg)
+
+The first leg was very runnable, with the grades of the trail not beeing too steep, which made for a great trail running experience. After running about 10.5K in 1 hour and 55 minutes, I reached the first aid station. At this point, I was actually ahead of my target time of 9:00 by a couple minutes.
+
+![First aid station](first_aid_station.jpg)
+
+I was running at a pretty good pace, but I noticed that my Garmin was telling me that I was running with an average HR in the mid-to-high 180bpm. This was _definitely_ not how I should be pacing myself during the first 2 hours of a 50K ultra, but but my HR-Dual monitor had sporadically been giving strange readings recently, and I genuinely felt like I was running at around 160bpm. 
+
+So I chalked it up to some miscalibration issue with my HR monitor and decided to keep running at the same pace. 
+
+![Second view](view2.jpg)
+
+![Third view](view3.jpg)
+
+![Fourth view](view4.jpg)
+
+At this point, some of the ascents started getting quite steep and technical, to the point where I had to crawl on all fours to get myself up the trail. The rise in the trail's technical levels started to get to me, and I decided to adjust my target goal to the more comfortable 09:45. 
+
+So I tried to stop my ongoing PacePro plan of 09:00 and restart my alternative PacePro plan of 09:45, and that's when disaster struck.
+
+### Garmin malfunction
+
+### The darkness
+
+### The final stretch
 
 ## Lessons learned
+
+## Closing thoughts
