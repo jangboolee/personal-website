@@ -85,7 +85,7 @@ Since the Mt. Bukhan Trail attempt was a run that I had done with no real time p
 
 ## Pre-race check-in
 
-I got to Bosan station the evening of the race, as racers could start checking in a day before the race. When I got there at around 18:00, the area was full of trail runners, and I felt right at home with my people.
+I got to Bosan station the evening before the race, as racers could start checking in a day before. When I got there at around 18:00, the area was full of trail runners, and I felt right at home with my people.
 
 ![Check-in](check-in.jpg)
 
