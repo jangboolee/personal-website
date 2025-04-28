@@ -34,7 +34,7 @@ publishDir = "../public"
     home = ["HTML", "RSS", "JSON"]
 
 [params]
-  mainSections = ["posts"] # Make sure your posts show up on homepage too
+  mainSections = ["posts"]
   ShowBreadCrumbs = true
   ShowReadingTime = true
   ShowPostNavLinks = true
@@ -51,6 +51,3 @@ Welcome to my website! Here you'll find:
 
 Explore from the menu or recent posts below.
     """
-
-[params.profileMode]
-  enabled = false  # if you want "profile mode" (big image + intro), turn this on
