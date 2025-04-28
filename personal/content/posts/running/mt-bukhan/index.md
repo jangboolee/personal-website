@@ -33,7 +33,7 @@ Its elevation profile is not too steep, with a combined ascent of 3,255m with th
 
 The course has 21 official segments, with each segment containing a photo spot where you can take a selfie to prove your attempt. Although [the program](https://www.knps.or.kr/portal/dulegil/bukhansan/stamptour.do) is now discontinued, you could get a passport book, where if you get your selfie at each of the 21 photo spots verified at a visitor center, you could get a stamp and a little souvenior badge.
 
-Overall, the course is not very rocky or technical and is very runnable. There is about 10K to 15K of road, but the course is mostly trail. It's very well-marked, and it's difficult to get lost. There's several convenience stores throughout the course where you can refuel and restock. There's also several public bathrooms throughout the course.
+Overall, the course is not very rocky or technical and is very runnable. There is about 10K to 15K of road, but the course is mostly trail. It's very well-marked, and it's difficult to get lost. There's several convenience stores throughout the course where you can refuel and restock, as well as several public bathrooms throughout the course.
 
 The official course website can be found [here](https://www.knps.or.kr/portal/dulegil/bukhansan/index.do), and below is the high-res official Korean map.
 
