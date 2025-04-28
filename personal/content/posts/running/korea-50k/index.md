@@ -157,7 +157,7 @@ As a Garmin and data nerd who believes "If it's not on Garmin, it didn't happen"
 
 This meant that I could no longer easily track my total distance or total elapsed time, which made pacing myself extremely difficult. I could technically do some mental math of `51K - remaining_distance = total_distance` and `current_time - 06:15 = total_elapsed_time` to figure them out, but in an ultra, you don't have much headspace for much else besides taking the next step. 
 
-As I was still mid-race, I also couldn't take the time out to figure out exactly what happened, but I was heartbroken to see that my watch's activity history didn't show the first 16K of the race. For all I knew, it was gone, and I could only track the remaining 35K.
+As I was still mid-race, I couldn't take the time out to figure out exactly what happened, but I was heartbroken to see that my watch's activity history didn't show the first 16K of the race. For all I knew, it was gone, and I could only track the remaining 35K.
 
 This Garmin malfunction, combined with the fact that I had been running with an average heart rate of around 180bpm for the last 4 hours, took a heavy toll on my motivation levels.
 
