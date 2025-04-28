@@ -1,7 +1,7 @@
 +++
 date = '2025-04-26T06:15:00+09:00'
 draft = false
-title = 'Korea 50K'
+title = 'Korea 50K race report'
 category = ['Trail running']
 tags = ['Korea', 'race']
 +++
@@ -29,7 +29,7 @@ Officially, the course is 52.50KM with a total elevation gain of 3,265m, which g
 
 ![The course](course.jpg)
 
-Although the first 20K were quite runnable, the later half was quite technical, and it had ascents where I had to literally crawl on all fours as well as descents where I had to slowly shimmy sideways to not fall over. Overall, I would say it was about a 3.5 out of 5 for the terrain's technical level.
+Although the first 20K were quite runnable, the later half was quite technical, and it had ascents where I had to literally crawl on all fours as well as descents where I had to slowly shimmy sideways to not fall over. Overall, I would say it was about a 4 out of 5 for the terrain's technical level.
 
 ## Gear shakedown
 
@@ -81,7 +81,7 @@ Prior to race day, I had planned out two target times for myself:
 
 I had based these times on the fact that I had done the first 50K of [Mt. Bukhan Trail](https://www.jangboolee.com/posts/running/mt-bukhan/) in about 9:35. If I felt good on the morning, I would try for the ambitious target time of 9 hours, but shoot for the comfortable time of 9:45 if I didn't.
 
-Since that was a run that I had done with no real time pressure, I assumed that I would be able to push myself a bit further on race day. It turned out that I had grossly underestimated the terrain of the trail (more to follow)...
+Since the Mt. Bukhan Trail attempt was a run that I had done with no real time pressure, I assumed that I would be able to push myself a bit further on race day. It turned out that I had grossly underestimated the terrain of the trail (more to follow)...
 
 ## Pre-race check-in
 
@@ -97,7 +97,7 @@ After checking in, I received my bib (#826), and I went to a nearby motel to res
 
 ## The run
 
-### Getting ready
+### Race-day morning
 
 I unfortunately couldn't sleep very well the night before, so I woke up feeling tired, especially since I hadn't been able to get much sleep for the last couple of weeks, getting an average of around 6 hours of sleep per day.
 
@@ -109,7 +109,7 @@ I checked-out from the motel at around 05:20 to check in my bag before the 06:00
 
 ![Starting line](starting_line.jpg)
 
-While waiting for the starting gun, I couldn't help but notice that I was the only runner wearing minimal shoes (that I could see), and most were wearing maximalist shoes. Different strokes for different folks, but I personaly think that everyone can benefit from incorporating minimalist shoes to strengthen the feet and legs and to get attuned to listening to your feet's receptors. Plus, feeling the ground while running is fun!
+While waiting for the starting gun, I couldn't help but notice that I was the only runner wearing minimal shoes (that I could see), and most were wearing maximalist shoes. Different strokes for different folks, but I personaly think that everyone can benefit from incorporating minimalist shoes to strengthen the feet and legs and to get attuned to listening to your feet's sensory receptors. Plus, feeling the ground while running is fun!
 
 ![A single minimal shoe in a sea of maximalist shoes](shoes.jpg)
 
@@ -133,9 +133,7 @@ The first leg was very runnable, with the grades of the trail not beeing too ste
 
 ![First aid station](first_aid_station.jpg)
 
-I was running at a pretty good pace, but I noticed that my Garmin was telling me that I was running with an average HR in the mid-to-high 180bpm. This was _definitely_ not how I should be pacing myself during the first 2 hours of a 50K ultra, but but my HR-Dual monitor had sporadically been giving strange readings recently, and I genuinely felt like I was running at around 160bpm. 
-
-So I chalked it up to some miscalibration issue with my HR monitor and decided to keep running at the same pace. 
+I was running at a pretty good pace, but my Garmin was telling me that I was running with an average HR in the mid-to-high 180bpm. This was _definitely_ not how I should be pacing myself during the first 2 hours of a 50K ultra, but but my HR-Dual monitor had sporadically been giving strange readings recently, and I genuinely felt like I was running at around 160bpm. So I chalked it up to some miscalibration issue with my HR monitor and decided to keep running at the same pace. 
 
 ![Second view](view2.jpg)
 
@@ -145,9 +143,25 @@ So I chalked it up to some miscalibration issue with my HR monitor and decided t
 
 At this point, some of the ascents started getting quite steep and technical, to the point where I had to crawl on all fours to get myself up the trail. The rise in the trail's technical levels started to get to me, and I decided to adjust my target goal to the more comfortable 09:45. 
 
-So I tried to stop my ongoing PacePro plan of 09:00 and restart my alternative PacePro plan of 09:45, and that's when disaster struck.
+So I tried to stop my ongoing PacePro plan of 09:00 and restart my alternative PacePro plan of 09:45, and that's when disaster struck at around the 16K mark.
 
 ### Garmin malfunction
+
+On a Garmin device, you can stop and resume your course navigation mid-activity at any time. I had assumed that PacePro Plans would be similar, and that you can stop a PacePro Plan and start a new PacePro Plan during the same activity. Unfortunately, I was mistaken.
+
+After I realized that my initial target of 09:00 was too ambitious for the trail's terrain, I stopped my 09:00 PacePro Plan and tried to start my alternative 09:45 PacePro Plan. Unfortunately, I couldn't find the option to start a new PacePro Plan mid-activity, so I thought that it would be better to just continue using the previous 09:00 plan. To try to force my watch to resume the PacePro I just exited, I went back to the watch face, into my race calendar glance, and clicked the `Use PacePro` option under the Korea 50K race event.
+
+Apparently my Epix didn't like that, and it started creating multiple laps in succession within the trail run I activity I had been tracking, and then...froze. No matter what I did, the watch did not respond, and then after a couple minutes, did a soft reboot on its own. When it rebooted, it pulled up the trail running activity, but with everything reset to 0.
+
+As a Garmin and data nerd who believes "If it's not on Garmin, it didn't happen", this was a huge mental blow, since I thought that I had lost the first 16K of the 50K race. Distraught, I restarted my activity from scratch, and started re-tracking my run from scratch.
+
+This meant that I could no longer easily track my total distance or total elapsed time, which made pacing myself extremely difficult. I could technically do some mental math of `51K - remaining_distance = total_distance` and `current_time - 06:15 = total_elapsed_time` to figure them out, but in an ultra, you don't have much headspace for much else besides taking the next step. 
+
+As I was still mid-race, I also couldn't take the time out to figure out exactly what happened, but I was heartbroken to see that my watch's activity history didn't show the first 16K of the race. For all I knew, it was gone, and I could only track the remaining 35K.
+
+This Garmin malfunction, combined with the fact that I had been running with an average heart rate of around 180bpm for the last 4 hours, took a heavy toll on my motivation levels.
+
+![HR and elevation for the first 4 hours](hr.png)
 
 ### The darkness
 
