@@ -29,7 +29,6 @@ publishDir = "../public"
     home = ["HTML", "RSS", "JSON"]
 
 [params]
-  mainSections = ["posts"]
   ShowBreadCrumbs = true
   ShowReadingTime = true
   ShowPostNavLinks = true
