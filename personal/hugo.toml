@@ -15,19 +15,14 @@ publishDir = "../public"
     weight = 1
 
   [[menus.main]]
-    name = "Search"
-    url = "/search/"
-    weight = 2
-
-  [[menus.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 3
+    weight = 2
 
   [[menus.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 3
 
 [outputs]
   [outputs.home]

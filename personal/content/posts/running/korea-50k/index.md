@@ -2,7 +2,7 @@
 date = '2025-04-26T06:15:00+09:00'
 draft = false
 title = 'Korea 50K race report'
-category = ['Trail running']
+categories = ['Trail running']
 tags = ['Korea', 'race']
 +++
 

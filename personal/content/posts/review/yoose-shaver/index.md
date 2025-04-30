@@ -2,6 +2,8 @@
 date = '2024-04-03T05:38:26+09:00'
 draft = false
 title = 'Reivew of Yoose Mini Shaver'
+categories = ['Travel gear']
+tags = ['toiletries']
 +++
 
 ## Summary
