@@ -2,7 +2,7 @@
 date = '2025-02-28T10:00:00+09:00'
 draft = false
 title = 'Mt. Bukhan trail 64K solo run'
-categories = ['Trail running']
+categories = ['Running']
 tags = ['Korea', 'solo']
 +++
 
