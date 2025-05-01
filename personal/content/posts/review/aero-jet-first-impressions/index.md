@@ -195,14 +195,14 @@ The accessories are self-explanatory, so I will only include pictures and the sp
 | category | value |
 | -- | -- |
 | weight | 213.8 g (4 oz) |
-| dimensions (W x H x D) |33x27.3x3.8~9.5 cm (13x10.75x1.5~3.75 in) |
+| dimensions (W x H x D) |33x27.3x3.8 to 9.5 cm (13x10.75x1.5 to 3.75 in) |
 
 #### Half size
 
 | category | value |
 | -- | -- |
 | weight | 78.5 g (2.77 oz) |
-| dimensions (W x H x D) |27.3x16.5x3.8~9.5 cm (10.75x6.5x1.5~3.75 in) |
+| dimensions (W x H x D) |27.3x16.5x3.8 to 9.5 cm (10.75x6.5x1.5 to 3.75 in) |
 
 ### Shoe Cube
 
