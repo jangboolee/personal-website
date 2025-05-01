@@ -97,6 +97,10 @@ Like other travel backpacks with similar capacity, the pack is large, and will n
 
 ![Fit, side](aj_fit_side.jpg)
 
+Here's how the pack compares to my Vagabond Jet, a 23L bag:
+
+![Aero Jet vs Vagabond Jet](aj_vj.jpg)
+
 Despite its size, it is an extremely comfortable carry. Gossamer Gear's years of experience of making ultralight outdoor gear shines through in its harness system, and the pack does not dig in at all on the shoulders or on the back.
 
 It is also compatible with the optional [Fastbelt](https://www.gossamergear.com/products/fast-belt) hipbelt, which will help even more with weight distribution while adding some storage. My Fastbelt is on the way, so I haven't had the chance to try out the Aero Jet with the hip belt. Although the pack wasn't fully loaded out, the pack is already supremely comfortable, and I look forward to trying out the Fastbelt with the pack when it arrives.
@@ -256,8 +260,15 @@ The Heimplanet Transit lineup of products has served me well on my many one-bag 
 * I like having two water bottle pockets, and I adore the front stretch mesh pocket of Gossamer Gear packs
 * Gossamer Gear's ecosystem of accessories, especially the packing cubes, are more feature-rich
 * Gossamer Gear's products are more minimal, in a good way
-    * For example, while I do appreciate the many features of [Heimplanet's Dopp Kit](https://en.heimplanet.com/products/carry-essentials-dopp-kit-better-half) such as integrated hanging system and detachable mirror, I personally prefer the no-frills, minimalistic approach of Gossamer Gear's Clear Cube.
+    * For example, while I do appreciate the many features of [Heimplanet's Dopp Kit Better Half](https://en.heimplanet.com/products/carry-essentials-dopp-kit-better-half) such as integrated hanging system and detachable mirror, I personally prefer the no-frills, minimalistic approach of Gossamer Gear's Clear Cube.
 * As a trail runner, I prefer the outdoors-inspired look of the Gossamer Gear Aero Jet to the urban-style of the Heimplanet Transit 34L
 
 ## Conclusion
 
+![My complete GG collection](gg_family.jpg)
+
+As a long-time fan of Gossamer Gear, I may be biased, but my first impression of Gossamer Gear's Travel Collection is that it is FANTASTIC. Gossamer Gear has done a great job of walking the fine line between stripping out the unnecessary while keeping the essentials and staying true to their ultralight roots of "take less, do more". 
+
+I was especially impressed with the comfort of the Aero Jet, the utility of the compressible packing cubes, and how well the two packable bags complement the Aero Jet. I especially didn't expect to be as impressed with the Vanish 38L Packable Duffel as much as I was.
+
+While I haven't had the opportunity to travel with them yet, I have an intercontinental trip coming up in less than 2 weeks, so I look forward to testing them out in the field soon.
