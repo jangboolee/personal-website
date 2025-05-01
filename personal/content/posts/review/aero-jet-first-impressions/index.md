@@ -1,7 +1,7 @@
 +++
 date = '2025-05-01T22:04:57+09:00'
 draft = false
-title = "Sneek peak and initial impressions of Gossamer Gears' Travel Collection"
+title = "Sneek peak and initial impressions of Gossamer Gear's Travel Collection"
 categories = ['Review']
 tags = ['Travel gear']
 
@@ -82,7 +82,7 @@ The pack's tech compartment is top notch, just like the Vagabond's:
 
 ![Tech compartment](aj_tech.jpg)
 
-The tech compartment's zipper mesh pocket has a discrete AirTag pocket:
+The tech compartment's zipper mesh pocket has a discreet AirTag pocket:
 
 ![Tech compartment, mesh pocket](aj_tech_mesh.jpg)
 
