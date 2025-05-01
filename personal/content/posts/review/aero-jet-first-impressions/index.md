@@ -16,9 +16,9 @@ As someone who:
 * Already owns two Gossamer Gear packs
     * I use the [Vagabond Jet](https://www.gossamergear.com/products/vagabond-jet) for my daily EDC + commute bag and the [Gorilla 50 Ultralight Backpack](https://www.gossamergear.com/products/gorilla-50) for multi-day outdoor expeditions
 
-...I have been waiting for something like Gossamer Gear's Travel Collection; a one-bag-travel oriented collection of gear that embodies Gossamer Gear's philosophy of "Take less, do more".
+...I have been waiting for something like Gossamer Gear's Travel Collection; a one-bag-travel oriented collection of gear that embodies Gossamer Gear's ultralight philosophy of "Take less, do more".
 
-Gossamer Gear's Travel Collection is set for a global release on 2025-05-06, and Gossamer Gear was nice enough to send me pre-release testing samples of their upcoming Travel collection for testing and review. Although the products were sent by Gossamer Gear, the company had no inputs on my opinions.
+Gossamer Gear's Travel Collection is set for a global release on 2025-05-06, and Gossamer Gear was nice enough to send me pre-release testing samples of their upcoming Travel collection for testing and review. Although the products were sent by Gossamer Gear, the company gave no editorial inputs.
 
 Below are some pictures and my initial impressions of the collection.
 
