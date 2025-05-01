@@ -1,7 +1,10 @@
 +++
 date = '2025-05-01T22:04:57+09:00'
-draft = true
+draft = false
 title = "Sneek peak and initial impressions of Gossamer Gears' Travel Collection"
+categories = ['Review']
+tags = ['Travel gear']
+
 +++
 
 ## Introduction
