@@ -169,7 +169,7 @@ The main specs of the Vanish 38L Packable Duffel:
 | packed dimensions (W x H x D) |21.6x15.9x3.8 cm (8.5x6.25x1.5 in) |
 | unpacked dimensions (W x H x D) |53.3x22.9x33 cm (21x9x13 in) |
 
-When I unpacked the Vanish Duffle, I immediately fell in love. The packable duffle bag, despite its low weight of 213g, is incredibly spacious, and will make for the perfect bag for one-baggers like me who like to travel with one-bag, but come back with 1.5/2 bags, with the new bag filled with souveniors and gifts from their travel destination.
+When I unpacked the Vanish Duffle, I immediately fell in love. The packable duffle bag, despite its low weight of 213g, is incredibly spacious, and will make for the perfect bag for one-baggers like me who like to travel with one-bag, but come back with 1.5 or 2 bags, with the new bag filled with souveniors and gifts from their travel destination.
 
 It's also surprisingly feature-rich:
 
