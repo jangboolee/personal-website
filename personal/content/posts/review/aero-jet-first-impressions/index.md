@@ -19,6 +19,8 @@ Gossamer Gear's Travel Collection is set for a global release on 2025-05-06, and
 
 Below are some pictures and my initial impressions of the collection.
 
+![Travel collection](complete.jpg)
+
 ## Travel bags
 
 ### Aero Jet Backpack
@@ -35,9 +37,9 @@ The main specs of the Aero Jet backpack:
 
 | category | value |
 | -- | -- |
-| volume | 35L (excluding exterior stretch pockets)
-| weight | 1.13kg (40 oz.) |
-| dimensions (W x H x D) |31.1x52.7x19.1 cm (12.25x20.75x7.5 in) |
+| volume | 35L (excluding exterior stretch pockets) |
+| weight | 1.13 kg (40 oz) |
+| dimensions (W x H x D) | 31.1x52.7x19.1 cm (12.25x20.75x7.5 in) |
 
 The main highlights of the pack are:
 
@@ -103,7 +105,7 @@ It is also compatible with the optional [Fastbelt](https://www.gossamergear.com/
 
 The sternum strap is a simple, no-frills buckle-style strap. It's easily height-adjustable, and although I do enjoy the magnetic sternum straps of my other travel backpack (Heimplanet Transit 34L), I also appreciate the lightweight and simple strap of the Aero Jet.
 
-The side hadle is well-padded and is comfortable to hold. The top handle is identical to that of the Vagabond Jet - secure stitching with a rounded handle that doesn't dig in to your hands while holding it up.
+The side grab hadle is well-padded and is comfortable to hold. The top grab handle is identical to that of the Vagabond Jet - secure stitching with a rounded handle that doesn't dig in to your hands while holding it up.
 
 The straps don't come with any fasteners and will dangle out-of-the-box, which is not great. However, I always keep a roll of velcro cable ties around for packs like this, and the loose straps can easily be tidied up with them.
 
@@ -127,30 +129,135 @@ The RikSak is a 22L packable backpack that can be used as an ultralight daypack 
 
 ![Unpacked](rs_unpacked.jpg)
 
-The main specs of the Aero Jet backpack:
+The main specs of the RiskSak 22L Packable Backpack:
 
 | category | value |
 | -- | -- |
-| volume | 35L (excluding exterior stretch pockets)
-| weight | 1.13kg (40 oz.) |
-| dimensions (W x H x D) |31.1x52.7x19.1 cm (12.25x20.75x7.5 in) |
+| volume | 20L |
+| weight | 139.3 g (4.91 oz) |
+| packed dimensions (W x H x D) |17.7x15.2x3.8 cm (7x6x1.5 in) |
+| unpacked dimensions (W x H x D) |32.4x53.3x8.9 cm (12.75x21x3.5 in) |
 
+Similar to all packable bags, the pack has minimal compartments or padding, but it has:
 
+* Interior hanging stretch mesh pocket, which the bag folds back into
+* Top grab handle
+
+Despite its weight being less than 140g, the pack can hold a lot of volume and will make for a great daypack when walking out and about. As a sucker for packable ultralight gear, I adore this little bag, and I'm sure the RikSak will make for a great addition for travelers.
 
 ### Vanish 38L Packable Duffel
 
+The Vanish 38L Packable Duffel is like the bigger brother of the RikSak 22L Packable Backpack. As the name suggests, it's a packable duffel bag that can carry a whopping 38L of stuff, which is already more than what the main Aero Jet can carry (excluding exterior stretch pockets).
+
+![Packed](vanish_packed.jpg)
+
+![Unpacked](vanish_unpacked.jpg)
+
+The main specs of the Vanish 38L Packable Duffel:
+
+| category | value |
+| -- | -- |
+| volume | 38L |
+| weight | 213.8 g (7.54 oz) |
+| packed dimensions (W x H x D) |21.6x15.9x3.8 cm (8.5x6.25x1.5 in) |
+| unpacked dimensions (W x H x D) |53.3x22.9x33 cm (21x9x13 in) |
+
+When I unpacked the Vanish Duffle, I immediately fell in love. The packable duffle bag, despite its low weight of 213g, is incredibly spacious, and will make for the perfect bag for one-baggers like me who like to travel with one-bag, but come back with 1.5/2 bags, with the new bag filled with souveniors and gifts from their travel destination.
+
+It's also surprisingly feature-rich:
+
+* Three convenient, reinforced grab handles
+* Attachment points for customization 
+* End pockets for extra volume
+* Large U-zippered opening 
+* Snappable top handles for tote carry, or apart for backpack mode
+* A stretch mesh pocket for small items, doubling as the stuff pouch
+
 ## Accessories
+
+The accessories are self-explanatory, so I will only include pictures and the specs tables for each, with some exceptions for notable features.
 
 ### Jet Pack Compression Cube
 
+![Full & Half](comp.jpg)
+
+![Before & after compression](comp_b_a.jpg)
+
+#### Full size
+
+| category | value |
+| -- | -- |
+| weight | 213.8 g (4 oz) |
+| dimensions (W x H x D) |33x27.3x3.8~9.5 cm (13x10.75x1.5~3.75 in) |
+
+#### Half size
+
+| category | value |
+| -- | -- |
+| weight | 78.5 g (2.77 oz) |
+| dimensions (W x H x D) |27.3x16.5x3.8~9.5 cm (10.75x6.5x1.5~3.75 in) |
+
 ### Shoe Cube
+
+![Shoe cube](shoe.jpg)
+
+| category | value |
+| -- | -- |
+| weight | 45 g (1.59 oz) |
+| dimensions (W x H x D) |39.4x18.4x9.5 cm (15.5x7.25x3.75 in) |
 
 ### Dirty/Clean Cube
 
+![Dirty/clean](dc_cube.jpg)
+
+| category | value |
+| -- | -- |
+| weight | 122.8 g (4.33 oz) |
+| dimensions (W x H x D) |39.4x18.4x9.5 cm (15.5x7.25x3.75 in) |
+
 ### Clear Cube
+
+![Clear cube](clear.jpg)
+
+![Clear cube interior](clear_interior.jpg)
+
+| category | value |
+| -- | -- |
+| weight | 73.7 g (2.6 oz) |
+| dimensions (W x H x D) | 20.3x15.2x6.4 cm (8x6x2.5 in) |
 
 ### Passport Wallet
 
-## Overall first impressions
+![Passport wallet](pw.jpg)
 
-### Comparison with the Heimplanet Transit set
+![Passport wallet, interior](pw_interior.jpg)
+
+| category | value |
+| -- | -- |
+| weight | 31.7 g (1.11 oz) |
+| dimensions (W x H x D) |15.2x12.1x1.3 cm (6x4.75x0.5 in) |
+
+* Sized to fit one or multiple passports
+* RFID-blocking liner
+* Two internal card pockets
+* One internal pocket for cash
+
+## Comparison with the Heimplanet Transit set
+
+Until now, my urban one-bag travel was done with the Heimplanet Transit lineup, which I have enjoyed using:
+
+![Heimplanet](heimplanet.jpg)
+
+The Heimplanet Transit lineup of products has served me well on my many one-bag trips, however I will be switching to Gossamer Gear's Travel Collection the following reasons:
+
+* It's much lighter, with the Aero Jet weighing at 1.13kg and the Heimplanet Transit 34L at 1.63kg
+* The comfort of Gossamer Gear's packs are unmatched
+* The tech compartment is amazing
+* I like having two water bottle pockets, and I adore the front stretch mesh pocket of Gossamer Gear packs
+* Gossamer Gear's ecosystem of accessories, especially the packing cubes, are more feature-rich
+* Gossamer Gear's products are more minimal, in a good way
+    * For example, while I do appreciate the many features of [Heimplanet's Dopp Kit](https://en.heimplanet.com/products/carry-essentials-dopp-kit-better-half) such as integrated hanging system and detachable mirror, I personally prefer the no-frills, minimalistic approach of Gossamer Gear's Clear Cube.
+* As a trail runner, I prefer the outdoors-inspired look of the Gossamer Gear Aero Jet to the urban-style of the Heimplanet Transit 34L
+
+## Conclusion
+
