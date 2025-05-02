@@ -54,7 +54,7 @@ The main highlights of the pack are:
 * Hidden pocket with RFID-blocking
 * Luggage pass-through
 
-#### Comparments
+#### Compartments
 
 The Aero Jet has the following compartments:
 
