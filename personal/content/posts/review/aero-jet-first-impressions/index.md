@@ -120,7 +120,7 @@ The luggage pass-through is extremely appreciated, and I like how it allows you 
 
 The hidden security pocket on the back with RFID-blocking is also a great touch and makes for the perfect compartment for your passport while traveling.
 
-Double water-bottle pockets are a must for me, as I always have a 750ml water bottle pocket with me at all times. The extra pocket is often used to hold my daughter's smaller water bottle, or an umbrella on rainy days.
+Dual water-bottle pockets are a must for me, as I always have a 750ml water bottle pocket with me at all times. The extra pocket is often used to hold my daughter's smaller water bottle, or an umbrella on rainy days.
 
 The zippers to the tech compartment and front zippered pocket are aquaguarded, but the zippers of the main compartment are not. They also are not YKK-branded zippers, but they open and close just fine, and I have yet to have any zipper failures on any of my multiple Gossamer Gear products.
 
