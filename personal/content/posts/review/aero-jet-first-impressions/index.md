@@ -257,7 +257,7 @@ Until now, my urban one-bag travel was done with the Heimplanet Transit lineup, 
 
 The Heimplanet Transit lineup of products has served me well on my many one-bag trips, but I will be switching to Gossamer Gear's Travel Collection the following reasons:
 
-* It's much lighter, with the Aero Jet weighing ing at 1.13kg and the Heimplanet Transit 34L at 1.63kg
+* It's much lighter, with the Aero Jet weighing-in at 1.13kg and the Heimplanet Transit 34L at 1.63kg
 * The comfort of Gossamer Gear's packs are unmatched
 * The tech compartment is amazing
 * I like having two water bottle pockets, and I adore the front stretch mesh pocket of Gossamer Gear packs
