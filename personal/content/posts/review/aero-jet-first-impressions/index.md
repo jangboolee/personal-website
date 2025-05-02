@@ -270,7 +270,7 @@ The Heimplanet Transit lineup of products has served me well on my many one-bag 
 
 ![My complete GG collection](gg_family.jpg)
 
-As a long-time fan of Gossamer Gear, I may be biased, but my first impression of Gossamer Gear's Travel Collection is that it is FANTASTIC, and the Aero Jet and its supporting ecosystem of accessories is a welcome addition to my Gossamer Gear gear. Gossamer Gear has done a great job of walking a fine line between stripping out the unnecessary while keeping the essentials, all the while staying true to their ultralight philosophy of "take less, do more". 
+As a long-time fan of Gossamer Gear, I may be biased, but my first impression of Gossamer Gear's Travel Collection is that it is FANTASTIC, and the Aero Jet and its supporting ecosystem of accessories is a welcome addition to my Gossamer Gear collection. Gossamer Gear has done a great job of walking a fine line between stripping out the unnecessary while keeping the essentials, all the while staying true to their ultralight philosophy of "take less, do more". 
 
 I was especially impressed with the comfort of the Aero Jet, the utility of the compressible packing cubes, and how well the two packable bags complement the Aero Jet. I especially didn't expect to be as impressed with the Vanish 38L Packable Duffel as much as I was.
 
